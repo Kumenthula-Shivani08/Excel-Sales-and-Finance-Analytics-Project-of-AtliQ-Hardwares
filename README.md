@@ -3,7 +3,7 @@ Project objective:
 
 1. Create a [Customer Net Sales Performance Report.pdf](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
-2. Conduct a comprehensive comparison between market performance and sales targets
+2. Conduct a comprehensive comparison between https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Market%20Performance%20vs%20Target%20using%20ETL.pdf
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
