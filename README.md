@@ -1,7 +1,7 @@
 Sales Report :
 Project objective:
 
-1. Create a Customer Net Sales Performance Report.pdf
+1. Create a [Customer Net Sales Performance Report.pdf](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
 2. Conduct a comprehensive comparison between market performance and sales targets
 
