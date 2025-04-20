@@ -20,8 +20,9 @@ Project objective:
 
 3. Create Profit and Loss (P&L) reports by [Months](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf)
 
-Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
