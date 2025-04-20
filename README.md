@@ -1,9 +1,9 @@
 Sales Report :
 Project objective:
 
-1. Create a [Customer Net Sales Performance Report.pdf](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
+1. Create a [Customer Net Sales Performance Report](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
-2. Conduct a comprehensive comparison between https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Market%20Performance%20vs%20Target%20using%20ETL.pdf
+2. Conduct a comprehensive comparison between [Market Performance vs Target using ETL](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Market%20Performance%20vs%20Target%20using%20ETL.pdf)
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -14,11 +14,11 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 Finance Report :
 Project objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year
+1. Create Profit and Loss (P&L) reports by [Fiscal Years](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)
 
-2. Create Profit and Loss (P&L) reports by Markets
+2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%26%20L%20by%20Markets.pdf)
 
-3. Create Profit and Loss (P&L) reports by Months
+3. Create Profit and Loss (P&L) reports by [Months](https://github.com/Kumenthula-Shivani08/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf)
 
 Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
